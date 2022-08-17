@@ -79,7 +79,7 @@ header > h1{
     color: var(--cor3);
     font-family: var(--fonte-destaque);
     color: var(--cor0);
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     font-size: 3em;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.144);
     font-weight: normal;
